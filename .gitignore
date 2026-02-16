@@ -54,3 +54,6 @@
 
 
 .mypy_cache
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
