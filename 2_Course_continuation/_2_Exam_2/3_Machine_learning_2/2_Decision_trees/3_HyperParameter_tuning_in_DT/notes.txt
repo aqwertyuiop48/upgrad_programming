@@ -12,4 +12,4 @@ https://towardsdatascience.com/machine-learning-basics-decision-tree-regression-
 https://sefiks.com/2018/08/28/a-step-by-step-regression-decision-tree-example/
 
 5. Lecture notes:
-https://drive.google.com/file/d/1wAJ8yre7jO25dBTshk09HfK1L6crFIpI/edit
+ (deleted) https://drive.google.com/file/d/1wAJ8yre7jO25dBTshk09HfK1L6crFIpI/edit
